@@ -1,6 +1,6 @@
 Bonjour à tous!
 
-Aujourd'hui on va tenté de créer un jeu Snake en js en trois heures.
+Aujourd'hui on va tenter de créer un jeu Snake en js en trois heures.
 Je vous guiderai pour vos premiers pas mais ensuite vous allez devoir le finir seul ;)
 Tout d'abord je vous laisse clone le repo afin d'obtenir deux fichiers, un html et un js vous permettant de commencer ce défi avec une bonne base ;)
 
@@ -20,7 +20,7 @@ function component(width, height, color, x, y) {
 }
 ```
 Allez je vais vous guidez encore un peu, pour faire un jeu ça peut être sympa d'update votre zone de jeu non?
-Essayer d'ajouter à votre méthode start de l'objet myGameArea la ligne suivante :
+Essayez d'ajouter à votre méthode start de l'objet myGameArea la ligne suivante :
 ```
     this.interval = setInterval(updateGameArea, 20);
 ```
