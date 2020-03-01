@@ -40,7 +40,7 @@ function updateGameArea() {
 }
 ```
 
-Et pour fini ajouter à notre component le code suivant :
+Et pour finir vous devez modifier votre component avec le code suivant :
 ```
 this.update = function(){
     ctx = myGameArea.context;
