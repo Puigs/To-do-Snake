@@ -9,7 +9,7 @@ Qu'es qu'un canvas? Man google les gars ;)
 
 Maintenant vous devriez commencer par créer un component, pour se faire je vous laisse intégrer ce code à votre projet :
 
-```jsfunction component(width, height, color, x, y) {
+```function component(width, height, color, x, y) {
   this.width = width;
   this.height = height;
   this.x = x;
